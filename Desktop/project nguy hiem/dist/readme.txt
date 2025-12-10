@@ -1,0 +1,1 @@
+the file *.exe1 in this folder is a malware. if you want run that.please run in a vitral machine like Hyper-V,vm,... it can make computer into trash.i dont have any reponisi... to applice any prolem.to use rename that file to exe.

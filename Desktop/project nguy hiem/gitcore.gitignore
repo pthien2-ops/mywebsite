@@ -1,0 +1,20 @@
+# Thư mục tạm hệ thống
+*.log
+*.tmp
+*.bak
+
+# File cấu hình IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Node modules (nếu bạn dùng Node.js)
+node_modules/
+
+# File môi trường
+.env
+
+# MacOS hoặc Windows
+.DS_Store
+Thumbs.db
